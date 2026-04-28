@@ -1,18 +1,9 @@
-# Ignore sub-repositories (handled by their own git)
+# Verhindert, dass der Haupt-Vault die Projekt-Repos "schluckt"
 20_projekte/sa_conformis/
 20_projekte/app_runningapp/
 
-# OS specific files
+# System-Müll & Obsidian-Cache
 .DS_Store
-.DS_Store?
-._*
 Thumbs.db
-desktop.ini
-
-# Sensitive information
-.env
-*.log
-
-# Obsidian specific
 .obsidian/workspace.json
 .obsidian/graph.json
