@@ -1,4 +1,4 @@
-# Verhindert, dass der Haupt-Vault die Projekt-Repos "schluckt"
+# Ignoriere die Unter-Repos (weil diese eigene Repos sind)
 20_projekte/sa_conformis/
 20_projekte/app_runningapp/
 
@@ -7,3 +7,4 @@
 Thumbs.db
 .obsidian/workspace.json
 .obsidian/graph.json
+.obsidian/workspace-mobile.json

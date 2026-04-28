@@ -1,10 +1,11 @@
 ---
 tags: [infrastructure, vps, system]
 ---
+[[adr_001_masterplan]]
 # INF_VPS_System_Overview
 
 ## Hardware & OS
-- **Hostname:** srv1102290
+- **Hostname:** srv1102290 
 - **OS:** Ubuntu 24.04.3 LTS
 - **CPU:** 2 Cores
 - **RAM:** 7.8Gi
