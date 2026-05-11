@@ -32,17 +32,5 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-  },
-  "10_infrastruktur": {
-    "iconName": "LiPcCase",
-    "iconColor": "#bd0000"
-  },
-  "20_projekte": {
-    "iconName": "LiAppWindow",
-    "iconColor": "#bd0000"
-  },
-  "30_ressourcen": {
-    "iconName": "LiArchiveRestore",
-    "iconColor": "#bd0000"
   }
 }
