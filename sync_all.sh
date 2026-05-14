@@ -9,7 +9,7 @@
   cd ~/Desktop/vault/20_projekte/app_runningapp && git add . && git commit -m "auto-sync" && git push
 
   echo "Sichere Research-Monster-Notizen..."
-  cd ~/Desktop/vault/20_projekte/research-monster && git add . && git commit -m "auto-sync" && git push
+    cd ~/Desktop/vault/20_projekte/research-monster && git add . && git commit -m "auto-sync" && git push
 
   echo "--- ALLES GESICHERT ---"
   sleep 2
