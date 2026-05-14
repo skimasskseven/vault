@@ -1,26 +1,24 @@
 ---
 type: infrastruktur-komponente
 tags:
-  - infra/typescript
-  - stack-category/frontend
-  - used-in/conformis
+  - infra/bcrypt
+  - stack-category/backend
   - used-in/packcheck
 ---
 
 > 🤖 Auto-generiert – manuelle Edits werden überschrieben
 
-# TypeScript
+# bcrypt
 
-Typisiertes JavaScript.
+Password/Session-Token-Hashing.
 
 ## Verwendet in
 
-- [[20_projekte/conformis/übersicht|conformis]]
 - [[20_projekte/packcheck/übersicht|packcheck]]
 
 ## Kategorie
 
-`frontend`
+`backend`
 
 ## Konfigurationsnotizen
 

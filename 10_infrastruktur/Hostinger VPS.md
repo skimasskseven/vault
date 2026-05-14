@@ -5,6 +5,7 @@ tags:
   - stack-category/infra
   - used-in/conformis
   - used-in/running_app
+  - used-in/packcheck
 ---
 
 > 🤖 Auto-generiert – manuelle Edits werden überschrieben
@@ -16,6 +17,7 @@ Self-hosted Linux-VPS (Hostinger). Trägt sowohl Conformis als auch tutgut-Backe
 ## Verwendet in
 
 - [[20_projekte/conformis/übersicht|conformis]]
+- [[20_projekte/packcheck/übersicht|packcheck]]
 - [[20_projekte/running_app/übersicht|running_app]]
 
 ## Kategorie

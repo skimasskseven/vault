@@ -4,6 +4,7 @@ tags:
   - infra/next.js
   - stack-category/frontend
   - used-in/conformis
+  - used-in/packcheck
 ---
 
 > 🤖 Auto-generiert – manuelle Edits werden überschrieben
@@ -15,6 +16,7 @@ React-basiertes Full-Stack-Framework (SSR/SSG, App Router).
 ## Verwendet in
 
 - [[20_projekte/conformis/übersicht|conformis]]
+- [[20_projekte/packcheck/übersicht|packcheck]]
 
 ## Kategorie
 

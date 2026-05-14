@@ -4,6 +4,7 @@ tags:
   - infra/caddy---let's-encrypt
   - stack-category/infra
   - used-in/conformis
+  - used-in/packcheck
 ---
 
 > 🤖 Auto-generiert – manuelle Edits werden überschrieben
@@ -15,6 +16,7 @@ Reverse-Proxy mit automatischem ACME/TLS.
 ## Verwendet in
 
 - [[20_projekte/conformis/übersicht|conformis]]
+- [[20_projekte/packcheck/übersicht|packcheck]]
 
 ## Kategorie
 
